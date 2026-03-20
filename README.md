@@ -78,7 +78,7 @@ I'm hunting for fullstack, frontend, or backend opportunities. Real projects wit
 
 <p align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ragul-collab/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ragul-collab&color=6E40C9&style=flat-square&label=PROFILE+VIEWS)
 
 **You're here. Now let's build something.** 🚀
 
