@@ -3,7 +3,7 @@
     <img src="./banner.png" alt="Ragul — Fullstack Developer" width="100%"/>
 </p>
 
-# I build things for the web that don't suck. (ECE is just my day job.)
+# I build things for the web that don't suck.
 
 ## The Essentials
 
@@ -39,3 +39,50 @@
 ---
 
 ## Looking For
+
+I'm hunting for fullstack, frontend, or backend opportunities. Real projects with real impact. Open-source in the JS/TS ecosystem. And conversations with developers who are actually building something interesting—not just talking about it.
+
+---
+
+## Let's Connect
+
+<p align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragul-s-77487)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[YOUR-X-HANDLE])
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raguldharani1703@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[YOUR-INSTAGRAM-HANDLE])
+
+</p>
+
+---
+
+## The Streak (or Lack Thereof)
+
+<p align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=ragul-collab&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul-collab&layout=compact&theme=dark&hide_border=true)
+
+</p>
+
+---
+
+## Ship It Daily
+
+<p align="center">
+    
+![Ragul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ragul-collab&theme=react-dark&hide_border=true&area=true)
+
+</p>
+
+---
+
+<p align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/ragul-collab/count.svg)
+
+**You're here. Now let's build something.** 🚀
+
+</p>
