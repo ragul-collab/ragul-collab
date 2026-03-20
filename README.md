@@ -1,7 +1,4 @@
-<!-- Replace banner.png with your Canva export -->
-<p align="center">
-    <img src="./banner.png" alt="Ragul — Fullstack Developer" width="100%"/>
-</p>
+
 
 # I build things for the web that don't suck.
 
