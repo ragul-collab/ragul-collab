@@ -68,7 +68,7 @@ I'm hunting for fullstack, frontend, or backend opportunities. Real projects wit
 [![Ragul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ragul-collab&theme=react-dark&hide_border=true&area=true)](https://github.com/ragul-collab)
 
 ---
-<center>
+
 [![Visitor Count](https://komarev.com/ghpvc/?username=ragul-collab&color=6E40C9&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ragul-collab)
-</center>
+
 **You're here. Now let's build something.** 🚀
