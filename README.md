@@ -7,7 +7,7 @@
 | 🧑‍💻 **Name** | Ragul |
 | 🎓 **Background** | ECE student — building for the web |
 | ⚡ **Identity** | Fullstack developer |
-| 🛠 **Stack** | React · Next.js · TypeScript · Tailwind · Node.js · Express · MongoDB · AWS |
+| 🛠 **Stack** | React · Node.js · Express · MongoDB |
 | 📬 **Reach me** | [raguldharani1703@gmail.com](mailto:raguldharani1703@gmail.com) |
 
 ---
@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -69,7 +68,7 @@ I'm hunting for fullstack, frontend, or backend opportunities. Real projects wit
 [![Ragul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ragul-collab&theme=react-dark&hide_border=true&area=true)](https://github.com/ragul-collab)
 
 ---
-
+<center>
 [![Visitor Count](https://komarev.com/ghpvc/?username=ragul-collab&color=6E40C9&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ragul-collab)
-
+</center>
 **You're here. Now let's build something.** 🚀
